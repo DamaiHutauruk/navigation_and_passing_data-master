@@ -16,7 +16,7 @@ class _LoginPageState extends State<LoginPage> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: Text("Instagram"),
+          title: Text("WARTEG"),
         ),
         body: SingleChildScrollView(
         child : Column(children: [
